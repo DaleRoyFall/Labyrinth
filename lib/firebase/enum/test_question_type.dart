@@ -1,0 +1,6 @@
+enum TestQuestionType {
+  BUTTON,
+  INPUT,
+  DEMENTIA_LINE,
+  SCHIZOPHRENIA_OPTICAL_ILLUSION,
+}

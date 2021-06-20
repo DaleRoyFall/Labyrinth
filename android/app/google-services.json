@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723023568063",
+    "project_id": "labyrinth-4b313",
+    "storage_bucket": "labyrinth-4b313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723023568063:android:4a132e3cabb8c07fbafa0a",
+        "android_client_info": {
+          "package_name": "com.andante.labyrinth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723023568063-8lr3t70b3a65g7vklunv8tp5c8gpofom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmn4yCyW4PrRobQC2QSrCqyLHvo1tboXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723023568063-8lr3t70b3a65g7vklunv8tp5c8gpofom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
